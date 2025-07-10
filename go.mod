@@ -14,7 +14,7 @@ retract (
 
 require (
 	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de
-	github.com/btcsuite/btcd/btcec/v2 v2.3.4
+	github.com/btcsuite/btcd/btcec/v2 v2.3.5
 	github.com/deckarep/golang-set v1.8.0
 	github.com/ethereum/go-ethereum v1.15.6
 	github.com/fatih/color v1.18.0
